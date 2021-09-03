@@ -7,7 +7,7 @@
 
 <img align="left" alt="GIF" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e4717lr0uev9ic2b2cxt166skzzm8ei31ixejyf5h79&rid=giphy.gif&ct=g" />
 Sou formado em Engenharia Elétrica e atualmente possuo alguns cursos na área de Data Science. Dentre eles posso destacar a certificação profissional da IBM dentro do Coursera 
-e a pós-graduação em Inteligência Artificial e Big data que estou fazendo na USP.
+e a pós-graduação em Inteligência Artificial e Big data que estou cursando na USP.
 <br>
 <br> 
 Atualmente trabalho dentro de uma das áreas de negócio da empresa Claro. Tenho como prinicpal responsabilidade acompanhar os resultados das pesquisas de satisfação 
