@@ -11,7 +11,7 @@ e a pós-graduação em Inteligência Artificial e Big data que estou cursando n
 <br>
 <br> 
 Atualmente trabalho dentro de uma das áreas de negócio da empresa Claro. Tenho como prinicpal responsabilidade acompanhar os resultados das pesquisas de satisfação 
-de clientes em transações da área técnica (t-NPS). Trabalho diariamente 
+de clientes em transações da área técnica (t-NPS). Atuo diariamente 
 com manipulação e exploração de dados, gosto muito de aplicar o conhecimento adquirido nos cursos e práticas para gerar valor ao negócio, dentre as técnicas aplicadas posso 
 destacar a aprendizagem supervisionada e não supervisionada para análise textual e classificação de clientes e também análise exploratória com Python + Jupyter. 
 <br>
