@@ -20,7 +20,9 @@ destacar a aprendizagem supervisionada e não supervisionada para análise textu
 <br>
 <br>
 <br>
-
+<br>
+<br>
+<br>
 <b> Daily Hands On</b>:
 
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
