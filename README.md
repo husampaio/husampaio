@@ -6,7 +6,7 @@
 
 
 <img align="left" alt="GIF" style="width: 30%; height: 40%" src="https://media.giphy.com/media/JWuBH9rCO2uZuHBFpm/giphy.gif?cid=ecf05e4717lr0uev9ic2b2cxt166skzzm8ei31ixejyf5h79&rid=giphy.gif&ct=g" />
-Sou formado em Engenharia Elétrica e estou cursando uma especialização na USP em Inteligência Artificial e Big Data, recentemente também conclui uma formação da IBM dentro do coursera em Data Science. 
+Bacharel em Engenharia Elétrica pela UNISUL e atualmente cursando uma especialização em Inteligência Artificial e Big Data na Universidade de São Paulo (USP), recentemente também conclui uma formação da IBM dentro do coursera em Data Science. 
 <br>
 <br> 
 Atualmente trabalho dentro de uma das áreas de negócio da empresa Claro. Tenho como prinicpal responsabilidade acompanhar os resultados das pesquisas de satisfação 
